@@ -1,3 +1,14 @@
+# Airline Stock – Oil Price & News Sentiment Analysis
+
+This repository contains a university team project analysing the relationship between oil prices, financial news sentiment, and airline stock performance using Bloomberg data.
+
+## Project Overview
+This project investigates how oil price movements and financial news sentiment influence airline stock performance. The airline industry is highly sensitive to fuel prices, and investor sentiment can amplify market reactions.
+
+The aim of the project was to analyse whether oil price shocks and financial news sentiment can help explain airline stock returns across major global airlines.
+
+This work was completed as part of a team project for the MSc Business Analytics programme at Queen Mary University of London.
+
 ## Example Visualisations
 
 ### Price vs Bloomberg News Sentiment
@@ -14,17 +25,6 @@ This Bloomberg Terminal chart compares airline equities with crude oil prices to
 This snapshot from Bloomberg's Public Information Book shows a comparables analysis of airline companies, including revenue distribution and valuation metrics.
 
 ![Comparables](images/bloomberg_comparables_analysis.png)
-
-# Airline Stock – Oil Price & News Sentiment Analysis
-
-This repository contains a university team project analysing the relationship between oil prices, financial news sentiment, and airline stock performance using Bloomberg data.
-
-## Project Overview
-This project investigates how oil price movements and financial news sentiment influence airline stock performance. The airline industry is highly sensitive to fuel prices, and investor sentiment can amplify market reactions.
-
-The aim of the project was to analyse whether oil price shocks and financial news sentiment can help explain airline stock returns across major global airlines.
-
-This work was completed as part of a team project for the MSc Business Analytics programme at Queen Mary University of London.
 
 ## Dataset
 The dataset was collected using the Bloomberg Terminal and includes:
