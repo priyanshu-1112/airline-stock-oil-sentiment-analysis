@@ -58,7 +58,7 @@ report/
 Data extraction using Bloomberg Terminal, data cleaning, and supporting the statistical analysis and interpretation of results.
 
 ## Authors
-Group Project – MSc Business Analytics  
+Dissertation(Group Project) – MSc Business Analytics  
 Queen Mary University of London
 
 Project Team:
