@@ -40,6 +40,9 @@ Some key findings from the analysis include:
 
 ## Repository Structure
 ```
+README.md
+analysis.ipynb
+
 data/
     raw_airline_dataset.csv
     cleaned_airline_dataset.xlsx
