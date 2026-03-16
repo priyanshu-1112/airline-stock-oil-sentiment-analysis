@@ -50,6 +50,10 @@ data/
 report/
     project_summary.pdf
     full_research_report.pdf
+
+## Team Code Notebooks
+
+The folder `team_notebooks/` contains individual analysis python codes contributed by each team member.
 ```
 
 ## Tools Used
