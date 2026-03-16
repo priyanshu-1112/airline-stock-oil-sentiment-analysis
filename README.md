@@ -41,15 +41,14 @@ Some key findings from the analysis include:
 ## Repository Structure
 ```
 README.md
-analysis.ipynb
 
 data/
     raw_airline_dataset.csv
     cleaned_airline_dataset.xlsx
 
-report/
+reports/
     project_summary.pdf
-    full_research_report.pdf
+    research_report.pdf
 
 ## Team Code Notebooks
 
