@@ -1,3 +1,20 @@
+## Example Visualisations
+
+### Price vs Bloomberg News Sentiment
+This chart compares airline stock prices with Bloomberg news sentiment scores to examine whether investor sentiment influences stock performance.
+
+![Price vs Sentiment](images/sentiment_vs_price.png)
+
+### Airline Stocks vs Oil Price (Bloomberg Terminal)
+This Bloomberg Terminal chart compares airline equities with crude oil prices to highlight the relationship between fuel costs and airline market performance.
+
+![Airline vs Oil](images/bloomberg_price_comparison.png)
+
+### Airline Financial Comparables (Bloomberg PIB)
+This snapshot from Bloomberg's Public Information Book shows a comparables analysis of airline companies, including revenue distribution and valuation metrics.
+
+![Comparables](images/bloomberg_comparables_analysis.png)
+
 # Airline Stock – Oil Price & News Sentiment Analysis
 
 This repository contains a university team project analysing the relationship between oil prices, financial news sentiment, and airline stock performance using Bloomberg data.
@@ -49,6 +66,11 @@ data/
 reports/
     project_summary.pdf
     research_report.pdf
+
+images/
+   sentiment_vs_price.png
+   bloomberg_price_comparison.png
+   bloomberg_comparables_analysis.png
 
 ## Team Code Notebooks
 
