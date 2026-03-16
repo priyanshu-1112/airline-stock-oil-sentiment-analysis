@@ -1,5 +1,7 @@
 # Airline Stock – Oil Price & News Sentiment Analysis
 
+This repository contains a university team project analysing the relationship between oil prices, financial news sentiment, and airline stock performance using Bloomberg data.
+
 ## Project Overview
 This project investigates how oil price movements and financial news sentiment influence airline stock performance. The airline industry is highly sensitive to fuel prices, and investor sentiment can amplify market reactions.
 
@@ -55,7 +57,12 @@ report/
 - Bloomberg Terminal
 
 ## My Contribution
-Data extraction using Bloomberg Terminal, data cleaning, and supporting the statistical analysis and interpretation of results.
+My main contributions to this team project included:
+
+- Extracting financial and sentiment data from the Bloomberg Terminal
+- Cleaning and structuring the dataset for analysis
+- Supporting the statistical analysis and interpretation of results
+- Assisting with the documentation of Bloomberg data access and methodology
 
 ## Authors
 Dissertation(Group Project) – MSc Business Analytics  
